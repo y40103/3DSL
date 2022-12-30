@@ -43,7 +43,7 @@ python3 graycode_1204_numba.py
 因此就先將numba取消 至少是可以正常運行的  
 
 *.pkl 是校正數據  
-主要為投影機的校正與馬達旋轉軸心的校正  
+主要為投影機 相機 馬達旋轉軸心的校正  
 原理是參考  
 https://ieeexplore.ieee.org/document/6375029  
 源碼當時實現的亂七八糟 就不拿出來了  
